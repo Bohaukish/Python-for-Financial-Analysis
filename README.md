@@ -1,2 +1,13 @@
 # Python-for-Financial-Analysis
-基础工具
+
+https://www.udemy.com/course/python-for-finance-and-trading-algorithms/learn/lecture/7533536#overview
+
+## Tine Series with statsmodel.tsa
+
+- ETS(Error-Trend-Seasonality) Decomposition
+
+- EWMA(Expoentially Weighted Moving Averages) Model(better than SMA)
+
+- ACF and PACF
+
+- ARIMA
