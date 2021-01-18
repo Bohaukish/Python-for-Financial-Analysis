@@ -11,3 +11,5 @@ https://www.udemy.com/course/python-for-finance-and-trading-algorithms/learn/lec
 - ACF and PACF
 
 - ARIMA
+
+https://blog.csdn.net/weixin_43178406/article/details/98480427
