@@ -2,6 +2,8 @@
 
 https://www.udemy.com/course/python-for-finance-and-trading-algorithms/learn/lecture/7533536#overview
 
+https://www.udemy.com/course/python-for-time-series-data-analysis/learn/lecture/14136017#overview
+
 ## Tine Series with statsmodel.tsa
 
 Data EXploration:
@@ -23,6 +25,8 @@ ARIMA model
 - Figure out the best AR(p)x I(d) x MA(q) combination to build the model
 
   - Plot ACF and PACF charts 目测选参数，没搞懂，感觉选不准 先放着
+  
+    https://people.duke.edu/~rnau/arimrule.htm
 
   - Grid Search + Akaike's Information Criterion (AIC): Pick the combine which has the lowest AIC value. 
 
