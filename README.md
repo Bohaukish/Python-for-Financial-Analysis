@@ -4,7 +4,7 @@ https://www.udemy.com/course/python-for-finance-and-trading-algorithms/learn/lec
 
 https://www.udemy.com/course/python-for-time-series-data-analysis/learn/lecture/14136017#overview
 
-## Tine Series with statsmodel.tsa
+## Time Series Analysis using statsmodel.tsa
 
 Data EXploration:
 
@@ -27,9 +27,23 @@ ARIMA model
   - Plot ACF and PACF charts 目测选参数，没搞懂，感觉选不准 先放着
   
     https://people.duke.edu/~rnau/arimrule.htm
+    
+    https://people.duke.edu/~rnau/seasarim.htm
 
   - Grid Search + Akaike's Information Criterion (AIC): Pick the combine which has the lowest AIC value. 
 
 - Forecasting
 
 https://blog.csdn.net/weixin_43178406/article/details/98480427
+
+## Finance Fundamentals
+
+- Portfolio Allocation
+
+- Sharpe Ratio
+
+- Portfolio Optimization
+
+- Efficient Frontier
+
+- CAPM(Capital Asset Pricing Model)
